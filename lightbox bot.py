@@ -13,7 +13,7 @@ import random
 
 COLLECTION_URL = 'https://lightboxjewelry.com/collections/lab-grown-loose-diamonds/products.json'
 CHECK_INTERVAL = 5  # seconds
-TEST_MODE = False  # Set True to test alert
+TEST_MODE = True  # Set True to test alert
 SKIP_KEYWORDS = ['Round Brilliant']  # Don't alert for these
 
 HEADERS = {
